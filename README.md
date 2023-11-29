@@ -4,6 +4,18 @@ Grover Algorithm implemented using Qiskit.
 
 detail can be seen in grover.pptx.
 
+## Index
+
++ Grover 算法简介
+  1. grover algorithm - find 3.ipynb
++ Grover 算法的几何视角解释
++ Grover 查询次数与成功率
++ Grover 算法改进
++ Grover 算法的几种应用
+
+完整算法代码：grover_algorithm.ipynb
+几何解释有关代码：angle.ipynb
+
 ## Some Slides:
 
 + angle representation to show Grover operation:
