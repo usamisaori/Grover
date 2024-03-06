@@ -12,6 +12,7 @@ detail can be seen in grover.pptx.
   3. Amplitude amplification
 + Grover 算法的几何视角解释
   4. geometrical interpretation
+  5. Worst Case when t/N = 1/2
 + Grover 查询次数与成功率
 + Grover 算法改进
 + Grover 算法的几种应用
