@@ -9,6 +9,7 @@ detail can be seen in grover.pptx.
 + Grover 算法简介
   1. grover algorithm - find 3.ipynb
   2. grover algorithm - find 6.ipynb
+  3. Amplitude amplification
 + Grover 算法的几何视角解释
 + Grover 查询次数与成功率
 + Grover 算法改进
