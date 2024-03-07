@@ -38,16 +38,16 @@ detail can be seen in grover.pptx.
 
 + best probability when apply Grover algorithm (see `6. different phase rotation Grover`):
 
-<img src="image/pic2.png" width=700 />
+<img src="image/pic2.png" width=550 />
 
 + success rate when apply one iteration (see `6. different phase rotation Grover`):
 
-<img src="image/pic3.png" width=700 />
+<img src="image/pic3.png" width=550 />
 
 + quantum circuit implementing Grover (use partial diffuser operator, see `8. youne algorithm`):
 
-<img src="image/pic4.png" width=700 />
+<img src="image/pic4.png" width=550 />
 
 + Grover application for SAT (see `9. SAT`):
 
-<img src="image/pic5.png" width=700 />
+<img src="image/pic5.png" width=550 />
