@@ -21,22 +21,28 @@ detail can be seen in grover.pptx.
 + Grover 算法的几种应用
   9. SAT
 
-完整算法代码：grover_algorithm.ipynb
-
 ## Some Slides:
 
-+ angle representation to show Grover operation:
++ simple example about find 3 (see `1. grover algorithm - find 3.ipynb`):
+
+<img src="image/pic0.png" width=700 />
+
++ geometrical interpretation to show Grover operation (see `4. geometrical interpretation`):
 
 <img src="image/pic1.png" width=700 />
 
-+ best probability when apply Grover algorithm:
++ best probability when apply Grover algorithm (see `6. different phase rotation Grover`):
 
 <img src="image/pic2.png" width=700 />
 
-+ success rate when apply one iteration:
++ success rate when apply one iteration (see `6. different phase rotation Grover`):
 
 <img src="image/pic3.png" width=700 />
 
-+ quantum circuit implementing Grover:
++ quantum circuit implementing Grover (use partial diffuser operator, see `8. youne algorithm`):
 
 <img src="image/pic4.png" width=700 />
+
++ Grover application for SAT (see `9. SAT`):
+
+<img src="image/pic5.png" width=700 />
