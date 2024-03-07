@@ -16,6 +16,7 @@ detail can be seen in grover.pptx.
 + Grover 查询次数与成功率
   6. different phase rotation Grover
 + Grover 算法改进
+  7. youne algorithm
 + Grover 算法的几种应用
 
 完整算法代码：grover_algorithm.ipynb
