@@ -15,10 +15,11 @@ detail can be seen in grover.pptx.
   5. Worst Case when t/N = 1/2
 + Grover 查询次数与成功率
   6. different phase rotation Grover
+  7. tight bound on iteration times when unknown t N
 + Grover 算法改进
-  7. youne algorithm
+  8. youne algorithm
 + Grover 算法的几种应用
-  8. SAT
+  9. SAT
 
 完整算法代码：grover_algorithm.ipynb
 
